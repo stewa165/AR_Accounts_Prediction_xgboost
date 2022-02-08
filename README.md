@@ -29,7 +29,7 @@ trainModel():
 - Predict on test data
 
 plotResiduals():
-- Function to plot residuals
+- Function to plot residuals and ecdf
 
 plotImportance():
 - Function to plot variable importance
