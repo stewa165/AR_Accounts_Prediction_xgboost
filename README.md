@@ -33,3 +33,6 @@ plotResiduals():
 
 plotImportance():
 - Function to plot variable importance
+
+# To Run:
+You must have the following R libraries installed: readr, ggplot2, dplyr, splitstackshape, lubridate, xgboost, pryr, prophet.
